@@ -1,0 +1,24 @@
+img{
+    height: 15vw;
+    width: 15vw;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+
+body{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+    background: linear-gradient(110deg, #fda93b 60%, #4bffff 60%);
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    border-style: dotted;
+    border-width: 5px;
+    border-color: aliceblue;
+}
